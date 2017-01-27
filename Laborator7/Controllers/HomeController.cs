@@ -33,6 +33,10 @@ namespace Laborator7.Controllers
         {
             return Calc();
         }
+        public ActionResult VerbsTest()
+        {
+            return View();
+        }
 
     }
 }
